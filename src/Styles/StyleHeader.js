@@ -21,7 +21,7 @@ export const Header = styled.header`
 export const Logo = styled.img`
   width: 95vw;
   height: 145vh;
-  position: absolute;
+  position: relative;
   top: 3%;
   @media (max-width: 800px) {
     display: none;
@@ -39,7 +39,7 @@ export const ResponsiveLogo = styled.img`
 `;
 
 export const RC = styled.img`
-  position: fixed;
+  position: absolute;
   top: 5%;
   left: 5%;
   @media (max-width: 800px) {
@@ -49,7 +49,7 @@ export const RC = styled.img`
 
 export const Menu = styled.nav`
   width: 50%;
-  position: fixed;
+  position: absolute;
   top: 5%;
   right: 5%;
   @media (max-width: 800px) {

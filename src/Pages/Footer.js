@@ -3,7 +3,7 @@ import Insta from "../assets/ImagesFooter/iconInsta.png";
 import Twitter from "../assets/ImagesFooter/iconTwitter.png";
 import Face from "../assets/ImagesFooter/iconFacebook.png";
 import Pinterest from "../assets/ImagesFooter/iconPinterest.png";
-import * as S from "../Style/styleFooter";
+import * as S from "../Styles/StyleFooter";
 
 const Footer = () => {
   return (

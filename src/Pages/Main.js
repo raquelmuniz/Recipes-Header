@@ -3,7 +3,7 @@ import RedVelvet from "../assets/ImagesMain/redVelvetCake.png";
 import Pizza from "../assets/ImagesMain/margheritaPizza.png";
 import Smoothie from "../assets/ImagesMain/peanutSmoothie.png";
 import ImageAbout from "../assets/ImagesMain/imageAbout.png";
-import * as S from "../Style/StyleMain";
+import * as S from "../Styles/StyleMain";
 
 const Main = () => {
   return (
